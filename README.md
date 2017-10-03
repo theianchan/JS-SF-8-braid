@@ -14,13 +14,15 @@ You can think of us as a networking service, or a channel for connecting with fr
 
 ## Commands
 
-You can say `hi` to hubb8 (the Braid bot's name is hubb8) and hubb8 will say hi back.
+You can say `@hubb8 hi` to hubb8 (the Braid bot's name is hubb8) and hubb8 will say hi back.
 
 You can also say `braid start` to kick off the Braid signup process. hubb8 will ask you a few questions and send the answers to our Google Sheets backend [here](https://docs.google.com/spreadsheets/d/1zLEbOqsqPUb4XS5ByM5PaPzgmGptl9iiIgOUlAx6-ig/edit?usp=sharing).
 
+hubb8 is `@bluebot` in the JS-SF-8 slack.
+
 ## Unsolved Problems
 
-
+This will never actually work because I think a bot can't "push" a message out based on some server action (not based on a user trigger).
 
 ## Developer's Notes
 
