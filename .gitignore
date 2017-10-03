@@ -1,0 +1,4 @@
+node_modules
+.DS_Store*
+.hubot_history
+scripts/braid-4cd2635a1fa0.json
